@@ -1,1 +1,1 @@
-Este projeto utiliza variables, transitions, animation e transform
+This project uses variables, transitions, animation e transform
